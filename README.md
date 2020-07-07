@@ -14,7 +14,7 @@ dos gastos e o preço final pode se alterar até a montagem final.
 
 - Link para o circuito no Falstad: http://tinyurl.com/yayle477
 
-- Link para o vídeo de explicação no Youtube: [a gerar]
+- Link para o vídeo de explicação no Youtube: https://youtu.be/a3YaCTJ32PE
 
 OBS:
 ====
