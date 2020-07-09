@@ -12,7 +12,7 @@ em um arquivo com as devidas referências). Note que o orçamento é apenas um m
 dos gastos e o preço final pode se alterar até a montagem final.
 
 
-- Link para o circuito no Falstad: http://tinyurl.com/yayle477
+- Link para o circuito no Falstad: http://tinyurl.com/yajmxu69
 
 - Link para o vídeo de explicação no Youtube: https://youtu.be/a3YaCTJ32PE
 
