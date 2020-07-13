@@ -1,5 +1,7 @@
 # Projeto de Fonte
 
+Aluno: Alcino Salviano Cavalcanti - 11892963
+
 - Objetivo: Criação, simulação e posterior montagem de circuito que funcione
 como uma fonte de alimentação 3v-12v com 100mA.
 
